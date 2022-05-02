@@ -1,10 +1,10 @@
 Hi 👋 My name is Prince
 =======================
 
-* 🌍  I'm based in Jalandhar, Punjab
-* * ✉️  You can contact me at [this.is.kumar.prince@gmail.com](mailto:this.is.kumar.prince@gmail.com)
-* * 🧠  I'm learning React.js, Next.js, Go, Rust
-* * 🤝  I'm open to collaborating on Frontend Project
+*  🌍  I'm based in Jalandhar, Punjab
+*  ✉️  You can contact me at [this.is.kumar.prince@gmail.com](mailto:this.is.kumar.prince@gmail.com)
+*  🧠  I'm learning React.js, Next.js, Go, Rust
+*  🤝  I'm open to collaborating on Frontend Project
 
 ### Skills
 
@@ -30,7 +30,5 @@ Hi 👋 My name is Prince
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/This-Is-Prince/pathfinding-visualizer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=This-Is-Prince&repo=pathfinding-visualizer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/This-Is-Prince/sorting-visualizer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=This-Is-Prince&repo=sorting-visualizer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/This-Is-Prince/codedamn-projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=This-Is-Prince&repo=codedamn-projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/This-Is-Prince/cv" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=This-Is-Prince&repo=cv&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
