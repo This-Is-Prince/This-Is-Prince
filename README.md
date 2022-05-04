@@ -3,7 +3,7 @@ Hi 👋 My name is Prince
 
 *  🌍  I'm based in Jalandhar, Punjab
 *  ✉️  You can contact me at [this.is.kumar.prince@gmail.com](mailto:this.is.kumar.prince@gmail.com)
-*  🧠  I'm learning React.js, Next.js, Go, Rust
+*  🧠  I'm learning Next.js, Go, Rust
 *  🤝  I'm open to collaborating on Frontend Project
 
 ### Skills
