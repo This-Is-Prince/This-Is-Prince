@@ -70,4 +70,4 @@ Hi 👋 My name is Prince
 </div>
 
 ## Snake eating my contribution graph
-![snake gif](https://github.com/This-Is-Prince/This-Is-Prince/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/This-Is-Prince/This-Is-Prince/blob/output/github-contribution-grid-snake.svg)
