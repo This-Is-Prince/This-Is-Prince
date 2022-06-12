@@ -45,6 +45,11 @@ Hi 👋 My name is Prince
 <a href="https://www.twitter.com/_ThisIsPrince_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <img alt="snake eating my contribution" src="https://github.com/This-Is-Prince/This-Is-Prince/blob/output/github-contribution-grid-snake.svg">
+</div>
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -69,11 +74,3 @@ Hi 👋 My name is Prince
 <a href="https://github.com/This-Is-Prince/cv" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=This-Is-Prince&repo=cv&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br>
-  <img alt="snake eating my contribution" src="https://github.com/This-Is-Prince/This-Is-Prince/blob/output/github-contribution-grid-snake.svg">
-  <br>
-  <br>
-  <br>
-</div>
