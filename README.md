@@ -3,7 +3,7 @@ Hi 👋 My name is Prince
 
 *  🌍  I'm based in Jalandhar, Punjab
 *  ✉️  You can contact me at [this.is.kumar.prince@gmail.com](mailto:this.is.kumar.prince@gmail.com)
-*  🧠  I'm learning Next.js, Go, Rust and Web3 (Polkadot)
+*  🧠  I'm learning Next.js, Go, Rust, React Native, Swift and Web3 (Polkadot)
 *  🤝  I'm open to collaborating on Frontend Project, Backend Project (Mostly in Golang), Desktop App (Wails(Go), Tauri(Rust) Framework)
 
 ### Skills
