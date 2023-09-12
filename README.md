@@ -47,7 +47,11 @@ Hi 👋 My name is Prince
 
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
-  <img alt="snake eating my contribution" src="https://github.com/This-Is-Prince/This-Is-Prince/blob/output/github-contribution-grid-snake.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ### Badges
