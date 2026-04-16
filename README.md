@@ -1,80 +1,130 @@
-Hi 👋 My name is Prince
-=======================
+<div align="center">
 
-*  🌍  I'm based in Jalandhar, Punjab
-*  ✉️  You can contact me at [this.is.kumar.prince@gmail.com](mailto:this.is.kumar.prince@gmail.com)
-*  🧠  I'm learning Next.js, Go, Rust, React Native, Swift and Web3 (Polkadot)
-*  🤝  I'm open to collaborating on Frontend Project, Backend Project (Mostly in Golang), Desktop App (Wails(Go), Tauri(Rust) Framework)
+# 👋 Hi, I'm Prince
+### 🚀 Software Engineer
 
-### Skills
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Building+Scalable+Products;Full+Stack+%2B+System+Design;Web3+%2F+Blockchain+Developer;Exploring+AI+%26+Automation;Shipping+Real+World+Products" />
 
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=This-Is-Prince&label=Profile+Views&color=00adb5&style=flat" />
 </p>
 
-### Socials
+</div>
 
-<p align="left"> 
-<a href="https://www.codepen.io/this-is-prince" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
-<a href="https://www.codesandbox.com/This-Is-Prince" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> 
-<a href="https://www.dev.to/this_is_prince" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> 
-<a href="https://www.github.com/This-Is-Prince" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/thisisprince/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="http://www.medium.com/@this.is.kumar.prince" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> 
-<a href="https://www.stackoverflow.com/users/16865357/prince" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
-<a href="https://www.twitter.com/_ThisIsPrince_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
+---
+
+## 🧠 About Me
+
+- 🏢 Building scalable tech products
+- ⚙️ Strong in **Full Stack + System Design**
+- 🌍 Working on real-world products
+- ⛓️ Exploring **Web3, Stablecoins & Blockchain infra**
+- 🤖 Experimenting with **AI (Ollama, Edge AI, LLMs)**
+- ☁️ Deploying on **GCP, Cloudflare, Vercel**
+- 📍 Based in **India**
+
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=js,ts,go,java,kotlin,swift,cpp,c,python,rust&perline=10" />
+
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&perline=10" />
+
+### 🧩 Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql&perline=10" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=10" />
+
+### ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=gcp,docker,nginx,cloudflare&perline=10" />
+
+### 📱 Mobile
+<img src="https://skillicons.dev/icons?i=androidstudio,swift,kotlin&perline=10" />
+
 </div>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🚀 Projects & Work
 
-![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=This-Is-Prince&show_icons=true&theme=dark)
+- 💸 Blockchain SDKs – Stablecoin infra (EVM, Solana, Tron)  
+- 🤖 AI Experiments – Edge AI + local LLMs  
 
-<a align="right" href="http://www.github.com/This-Is-Prince"><img src="https://github-readme-streak-stats.herokuapp.com/?user=This-Is-Prince&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=This-Is-Prince&bg_color=1b1917&color=0991b1&line=ffffff&point=0991b1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📊 GitHub Stats (Stable Version)
 
-<a href="https://github.com/This-Is-Prince" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=This-Is-Prince&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
 
-<b>Top Repositories</b>
+<img src="https://github-readme-stats.vercel.app/api?username=This-Is-Prince&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 
-<div width="100%" align="center">
-<a href="https://github.com/This-Is-Prince/pathfinding-visualizer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=This-Is-Prince&repo=pathfinding-visualizer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/This-Is-Prince/sorting-visualizer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=This-Is-Prince&repo=sorting-visualizer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div>
-<br /><br /><br /><br /><br /><br />
-<div width="100%" align="center">
-<a href="https://github.com/This-Is-Prince/codedamn-projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=This-Is-Prince&repo=codedamn-projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/This-Is-Prince/cv" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=This-Is-Prince&repo=cv&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=This-Is-Prince&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
 </div>
 
+---
+
+## 🔥 Streak Stats (Working Endpoint)
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=This-Is-Prince&theme=tokyonight&hide_border=true" width="60%" />
+
+</div>
+
+---
+
+## 🧠 What I Focus On
+
+```text
+→ Building products (not just projects)
+→ Scaling backend systems
+→ Real-world monetization models
+→ Web3 + Payments + Infra
+→ AI integration into apps
+````
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/thisisprince/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://www.twitter.com/_ThisIsPrince_">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+<a href="https://www.github.com/This-Is-Prince">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://dev.to/this_is_prince">
+  <img src="https://skillicons.dev/icons?i=devto" />
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake (Fixed)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+> I don't just write code — I build systems that scale 🚀
+
+---
